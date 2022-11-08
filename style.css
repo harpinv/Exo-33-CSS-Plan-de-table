@@ -1,0 +1,316 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+}
+
+.bloc1 {
+    background-color: burlywood;
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+
+.bloc2 {
+    background-color: burlywood;
+    height: 300px;
+    width: 450px;
+    position: relative;
+    left: 1086px;
+    top: -100px;
+}
+
+.bloc3 {
+    background-color: burlywood;
+    height: 600px;
+    width: 300px;
+    position: relative;
+    left: 200px;
+    top: 0px;
+}
+
+.bloc4 {
+    background-color: burlywood;
+    height: 600px;
+    width: 300px;
+    position: relative;
+    left: 1030px;
+    top: -500px;
+}
+
+.bloc5 {
+    background-color: burlywood;
+    height: 150px;
+    width: 300px;
+    position: relative;
+    left: 600px;
+    top: -300px;
+}
+
+.bloc6 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 450px;
+    top: -1800px;
+}
+
+.bloc7 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 450px;
+    top: -1620px;
+}
+
+.bloc8 {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    position: relative;
+    left: 250px;
+    top: -1770px;
+}
+
+.bloc9 {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    position: relative;
+    left: 740px;
+    top: -1870px;
+}
+
+.bloc10 {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    position: relative;
+    left: 1135px;
+    top: -1870px;
+}
+
+.bloc11 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 1260px;
+    top: -2020px;
+}
+
+.bloc12 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 1260px;
+    top: -1840px;
+}
+
+.bloc13 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 300px;
+    top: -1640px;
+}
+
+.bloc14 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 300px;
+    top: -1160px;
+}
+
+.bloc15 {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    position: relative;
+    left: 250px;
+    top: -1460px;
+}
+
+.bloc16 {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    position: relative;
+    left: 440px;
+    top: -1559px;
+}
+
+.bloc17 {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    position: relative;
+    left: 1080px;
+    top: -1565px;
+}
+
+.bloc18 {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    position: relative;
+    left: 1270px;
+    top: -1665px;
+}
+
+.bloc19 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 1130px;
+    top: -1960px;
+}
+
+.bloc20 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 1130px;
+    top: -1480px;
+}
+
+.bloc21 {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 700px;
+    top: -1180px;
+}
+
+.bloc22 {
+    color: cornflowerblue;
+    position: relative;
+    left: 460px;
+    top: -2700px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc23 {
+    color: cornflowerblue;
+    position: relative;
+    left: 1257px;
+    top: -2635px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc24 {
+    color: cornflowerblue;
+    position: relative;
+    left: 40px;
+    top: -2580px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc25 {
+    color: cornflowerblue;
+    position: relative;
+    left: 830px;
+    top: -2610px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc26 {
+    color: cornflowerblue;
+    position: relative;
+    left: 460px;
+    top: -2450px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc27 {
+    color: cornflowerblue;
+    position: relative;
+    left: 265px;
+    top: -2375px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc28 {
+    color: cornflowerblue;
+    position: relative;
+    left: 80px;
+    top: -2065px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc29 {
+    color: cornflowerblue;
+    position: relative;
+    left: 280px;
+    top: -1750px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc30 {
+    color: cornflowerblue;
+    position: relative;
+    left: 1115px;
+    top: -2380px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc31 {
+    color: cornflowerblue;
+    position: relative;
+    left: 920px;
+    top: -2075px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc32 {
+    color: cornflowerblue;
+    position: relative;
+    left: 1360px;
+    top: -2105px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc33 {
+    color: cornflowerblue;
+    position: relative;
+    left: 1127px;
+    top: -1790px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.bloc34 {
+    color: cornflowerblue;
+    position: relative;
+    left: 695px;
+    top: -1470px;
+    font-weight: bolder;
+    font-size: 30px;
+}
